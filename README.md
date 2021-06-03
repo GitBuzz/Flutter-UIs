@@ -21,7 +21,7 @@ Distributed under the MIT license.
 
 ## Contributing
 
-1. Fork it (<https://github.com/dmorales414/Flutter-UIs/fork>)
+1. Fork it
 2. Create your feature branch (`git checkout -b feature/your_branch`)
 3. Commit your changes (`git commit -am 'Descriptive commit about your contribution'`)
 4. Push to the branch (`git push origin feature/your_branch`)
