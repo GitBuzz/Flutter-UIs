@@ -15,9 +15,7 @@ flutter pub get
 flutter run
 ```
 
-## About me
-
-David Morales – [https://www.linkedin.com/in/david-morales-profile/] – david.morales2889@gmail.com
+## License
 
 Distributed under the MIT license.
 
