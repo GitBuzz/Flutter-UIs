@@ -8,19 +8,13 @@ class Form1 extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container(
+      margin: EdgeInsets.symmetric(horizontal: 60),
       child: Column(
         mainAxisAlignment: MainAxisAlignment.center,
         crossAxisAlignment: CrossAxisAlignment.center,
         children: [
-          Container(
-            margin: EdgeInsets.symmetric(horizontal: 60),
-            child: Column(
-              children: [
-                InteractiveForm(),
-                InteractiveFormButton(),
-              ],
-            ),
-          )
+          InteractiveForm(),
+          InteractiveFormButton(),
         ],
       ),
     );

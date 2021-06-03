@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_uis/form_1/view/form_1.dart';
 
 class HomePage extends StatelessWidget {
   const HomePage({Key? key}) : super(key: key);
@@ -8,12 +7,26 @@ class HomePage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       body: SafeArea(
-          // Test your UI here
-          child: ListView(
-        children: [
-          Form1(),
-        ],
-      )),
+        child: Column(
+          children: [
+            Container(
+              margin: EdgeInsets.symmetric(horizontal: 16),
+              padding: EdgeInsets.symmetric(vertical: 25),
+              child: Text(
+                'The app is running perfectly.',
+                style: TextStyle(fontSize: 30),
+              ),
+            ),
+            Container(
+              margin: EdgeInsets.symmetric(horizontal: 16),
+              child: Text(
+                'You can configure this view to test your UI.',
+                style: TextStyle(fontSize: 20),
+              ),
+            )
+          ],
+        ),
+      ),
     );
   }
 }
