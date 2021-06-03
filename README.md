@@ -23,6 +23,7 @@ Distributed under the MIT license.
 
 1. Fork it
 2. Create your feature branch (`git checkout -b feature/your_branch`)
-3. Commit your changes (`git commit -am 'Descriptive commit about your contribution'`)
-4. Push to the branch (`git push origin feature/your_branch`)
-5. Create a new Pull Request
+3. Create a folder inside 'lib/features/' folder for your contribution.
+5. Commit your changes (`git commit -am 'Descriptive commit about your contribution'`)
+6. Push to the branch (`git push origin feature/your_branch`)
+7. Create a new Pull Request
