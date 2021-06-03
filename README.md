@@ -2,9 +2,10 @@
 
 Flutter project with reusable UI snippets.
 
-## Example of some UI's in this project
 
-TODO: Add screenshot with link to the folder
+## Example of some UI's in this project
+### Interactive Form (Form1)
+<img src="https://media.giphy.com/media/QoV9Q3nI4gPTKMHSbr/giphy.gif" width="300"
 
 ## Development setup
 
