@@ -1,11 +1,6 @@
 # Flutter UI's
 
-Flutter project with reusable UI snippets.
-
-
-## Example of some UI's in this project
-### Interactive Form (Form1)
-<img src="https://media.giphy.com/media/QoV9Q3nI4gPTKMHSbr/giphy.gif" width="300">
+Flutter project with reusable UI snippets. At the end you can see some of the work in this project.
 
 ## Development setup
 
@@ -28,3 +23,7 @@ Distributed under the MIT license.
 5. Commit your changes (`git commit -am 'Descriptive commit about your contribution'`)
 6. Push to the branch (`git push origin feature/your_branch`)
 7. Create a new Pull Request
+
+## Example of some UI's in this project
+### Interactive Form (Form1)
+<img src="https://media.giphy.com/media/QoV9Q3nI4gPTKMHSbr/giphy.gif" width="300">
