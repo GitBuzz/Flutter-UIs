@@ -25,5 +25,8 @@ Distributed under the MIT license.
 7. Create a new Pull Request
 
 ## Example of some UI's in this project
-### Interactive Form (Form1)
+### Interactive Form (Folder: Form1)
 <img src="https://media.giphy.com/media/QoV9Q3nI4gPTKMHSbr/giphy.gif" width="300">
+
+### Clean and Simple view with SVG. (Folder: view_svg_1)
+<img src="https://media.giphy.com/media/kZTOX65y6hxK6tYQjJ/giphy.gif" width="300">
